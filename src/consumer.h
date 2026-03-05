@@ -16,7 +16,6 @@ typedef struct so_consumer_ctx_t {
 
 	int total_consumer_threads;
 
-    /* TODO: add synchronization primitives for timestamp ordering */
 	pthread_mutex_t mutex_output;
 	pthread_mutex_t mutex_timestamps;
 	pthread_cond_t semnal_scrie_log;
