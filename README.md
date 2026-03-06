@@ -40,7 +40,7 @@ write to the log file in the correct chronological order without post-processing
 sorting the file after execution.
 
 
-## Installation & Usage
+## Setup & Execution
 
 ### Prerequisites
 - Linux-based environment
